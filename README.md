@@ -89,4 +89,6 @@ Termolator is developed by Adam Meyers, Yifan He, Zachary Glass and Shasha Liao.
 The code for the Chinese terminology extractor and the English part-of-speech tagger in this git repository is developed by Yifan He and Shasha Liao.
 
 We thank the Chinese Language Processing Group at Brandeis University and Prof. Nianwen Xue for providing the Chinese word segmenter and part-of-speech tagger.
-# Termolator_Chinese_condensed
+
+## Termolator_Chinese_condensed
+This is a condensed version of the original termolator by the authors above. This version removes certain files that are not needed for our development purposes.
